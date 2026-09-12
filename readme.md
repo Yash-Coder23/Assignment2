@@ -1,4 +1,4 @@
-##Task5-Laundary Services Hero section.
+##Task-Laundary Services Hero section.
 
 ##Description:
 We built a Laundry Service website hero section using HTML and CSS.
